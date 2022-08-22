@@ -1,7 +1,4 @@
-# Diablo-Immortal-for-Telegram
-
-Diablo Immortal Events Reminder for Telegram
-
+# Diablo Immortal Events Reminder for Telegram
 
 Create a telegram bot. Get his token ($token)
 Create chats in telegram. Get their id ($chat_id)
